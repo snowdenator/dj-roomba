@@ -1,2 +1,2 @@
 # dj-roomba
-Roomba bot.
+Roomba bot. Inspiration from CuppaMatt, made at Leeds Hackspace.
